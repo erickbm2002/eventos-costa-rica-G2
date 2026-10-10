@@ -20,7 +20,7 @@
 
 ## 2. Repositorio del Proyecto
 
-- **Enlace de GitHub:** [https://github.com/tu-usuario/eventos-costa-rica](https://github.com/tu-usuario/eventos-costa-rica)
+- **Enlace de GitHub:** [https://github.com/tu-usuario/eventos-costa-rica](https://github.com/tu-usuario/eventos-costa-rica](https://github.com/erickbm2002/eventos-costa-rica-G2.git))
 - **Profesor invitado:** `Richard.arce.vargas@gmail.com`
 
 ---
