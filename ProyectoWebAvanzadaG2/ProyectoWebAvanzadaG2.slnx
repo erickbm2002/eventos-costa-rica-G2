@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ProyectoWebAvanzadaG2.Application/ProyectoWebAvanzadaG2.Application.csproj" Id="b698f613-8429-471e-b8e5-1e4b93c65711" />
+  <Project Path="ProyectoWebAvanzadaG2.Domain/ProyectoWebAvanzadaG2.Domain.csproj" Id="bb8ffa40-8f71-438f-887b-6a2901898659" />
+  <Project Path="ProyectoWebAvanzadaG2.Infraestructure/ProyectoWebAvanzadaG2.Infraestructure.csproj" Id="0374d2b0-6124-4f60-9119-4816887f4482" />
+  <Project Path="ProyectoWebAvanzadaG2/ProyectoWebAvanzadaG2.csproj" />
+</Solution>
