@@ -1,0 +1,16 @@
+C:\ProyectosPrograWeb\ProyectoFinalPAW\eventos-costa-rica-G2\ProyectoWebAvanzadaG2\ProyectoWebAvanzadaG2.Application\bin\Debug\net10.0\ProyectoWebAvanzadaG2.Application.deps.json
+C:\ProyectosPrograWeb\ProyectoFinalPAW\eventos-costa-rica-G2\ProyectoWebAvanzadaG2\ProyectoWebAvanzadaG2.Application\bin\Debug\net10.0\ProyectoWebAvanzadaG2.Application.dll
+C:\ProyectosPrograWeb\ProyectoFinalPAW\eventos-costa-rica-G2\ProyectoWebAvanzadaG2\ProyectoWebAvanzadaG2.Application\bin\Debug\net10.0\ProyectoWebAvanzadaG2.Application.pdb
+C:\ProyectosPrograWeb\ProyectoFinalPAW\eventos-costa-rica-G2\ProyectoWebAvanzadaG2\ProyectoWebAvanzadaG2.Application\obj\Debug\net10.0\ProyectoWebAvanzadaG2.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosPrograWeb\ProyectoFinalPAW\eventos-costa-rica-G2\ProyectoWebAvanzadaG2\ProyectoWebAvanzadaG2.Application\obj\Debug\net10.0\ProyectoWebAvanzadaG2.Application.AssemblyInfoInputs.cache
+C:\ProyectosPrograWeb\ProyectoFinalPAW\eventos-costa-rica-G2\ProyectoWebAvanzadaG2\ProyectoWebAvanzadaG2.Application\obj\Debug\net10.0\ProyectoWebAvanzadaG2.Application.AssemblyInfo.cs
+C:\ProyectosPrograWeb\ProyectoFinalPAW\eventos-costa-rica-G2\ProyectoWebAvanzadaG2\ProyectoWebAvanzadaG2.Application\obj\Debug\net10.0\ProyectoWebAvanzadaG2.Application.csproj.CoreCompileInputs.cache
+C:\ProyectosPrograWeb\ProyectoFinalPAW\eventos-costa-rica-G2\ProyectoWebAvanzadaG2\ProyectoWebAvanzadaG2.Application\obj\Debug\net10.0\ProyectoWebAvanzadaG2.Application.sourcelink.json
+C:\ProyectosPrograWeb\ProyectoFinalPAW\eventos-costa-rica-G2\ProyectoWebAvanzadaG2\ProyectoWebAvanzadaG2.Application\obj\Debug\net10.0\ProyectoWebAvanzadaG2.Application.dll
+C:\ProyectosPrograWeb\ProyectoFinalPAW\eventos-costa-rica-G2\ProyectoWebAvanzadaG2\ProyectoWebAvanzadaG2.Application\obj\Debug\net10.0\refint\ProyectoWebAvanzadaG2.Application.dll
+C:\ProyectosPrograWeb\ProyectoFinalPAW\eventos-costa-rica-G2\ProyectoWebAvanzadaG2\ProyectoWebAvanzadaG2.Application\obj\Debug\net10.0\ProyectoWebAvanzadaG2.Application.pdb
+C:\ProyectosPrograWeb\ProyectoFinalPAW\eventos-costa-rica-G2\ProyectoWebAvanzadaG2\ProyectoWebAvanzadaG2.Application\obj\Debug\net10.0\ref\ProyectoWebAvanzadaG2.Application.dll
+C:\ProyectosPrograWeb\ProyectoFinalPAW\eventos-costa-rica-G2\ProyectoWebAvanzadaG2\ProyectoWebAvanzadaG2.Application\obj\Debug\net10.0\Proyecto.4F867B4B.Up2Date
+C:\ProyectosPrograWeb\ProyectoFinalPAW\eventos-costa-rica-G2\ProyectoWebAvanzadaG2\ProyectoWebAvanzadaG2.Application\bin\Debug\net10.0\ProyectoWebAvanzadaG2.Domain.dll
+C:\ProyectosPrograWeb\ProyectoFinalPAW\eventos-costa-rica-G2\ProyectoWebAvanzadaG2\ProyectoWebAvanzadaG2.Application\bin\Debug\net10.0\ProyectoWebAvanzadaG2.Domain.pdb
+C:\ProyectosPrograWeb\ProyectoFinalPAW\eventos-costa-rica-G2\ProyectoWebAvanzadaG2\ProyectoWebAvanzadaG2.Application\obj\Debug\net10.0\ProyectoWebAvanzadaG2.Application.csproj.AssemblyReference.cache

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProyectoWebAvanzadaG2.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43483361482573f5f0ae5d90f05e76e3249a8253")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+358ae3c078b654d9fa6af0607e4c32527b0aa2fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProyectoWebAvanzadaG2.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProyectoWebAvanzadaG2.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

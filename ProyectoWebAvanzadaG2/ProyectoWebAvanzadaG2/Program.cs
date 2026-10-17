@@ -1,14 +1,27 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using ProyectoWebAvanzadaG2.Data;
+using ProyectoWebAvanzadaG2.Infraestructure.Data;
+using ProyectoWebAvanzadaG2.Domain.Interfaces;
+using ProyectoWebAvanzadaG2.Infraestructure.Repositories;
+using ProyectoWebAvanzadaG2.Application.Interfaces;
+using ProyectoWebAvanzadaG2.Application.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseSqlServer(connectionString));
+    options.UseSqlServer(connectionString,
+        b => b.MigrationsAssembly("ProyectoWebAvanzadaG2.Infraestructure")));
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
+
+// Add repositories and services
+builder.Services.AddScoped<IEventoRepository, EventoRepository>();
+builder.Services.AddScoped<IEventoService, EventoService>();
+builder.Services.AddScoped<IAsientoRepository, AsientoRepository>();
+builder.Services.AddScoped<IBoletoRepository, BoletoRepository>();
+builder.Services.AddScoped<IAsientoService, AsientoService>();
+builder.Services.AddScoped<IBoletoService, BoletoService>();
 
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
     .AddEntityFrameworkStores<ApplicationDbContext>();
@@ -39,6 +52,7 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}")
     .WithStaticAssets();
+
 
 app.MapRazorPages()
    .WithStaticAssets();

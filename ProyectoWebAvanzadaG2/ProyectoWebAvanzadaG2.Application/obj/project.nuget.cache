@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "w8X/HsjAZJQ=",
+  "dgSpecHash": "1TjDCTQdps4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Erick\\OneDrive\\Universidad\\Programacion Avanzada Web\\Proyecto\\programacionAvanzadaWeb-G2\\ProyectoWebAvanzadaG2\\ProyectoWebAvanzadaG2.Application\\ProyectoWebAvanzadaG2.Application.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\ProyectosPrograWeb\\ProyectoFinalPAW\\eventos-costa-rica-G2\\ProyectoWebAvanzadaG2\\ProyectoWebAvanzadaG2.Application\\ProyectoWebAvanzadaG2.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fstev\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.13\\microsoft.entityframeworkcore.10.0.13.nupkg.sha512",
+    "C:\\Users\\fstev\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.13\\microsoft.entityframeworkcore.abstractions.10.0.13.nupkg.sha512",
+    "C:\\Users\\fstev\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.13\\microsoft.entityframeworkcore.analyzers.10.0.13.nupkg.sha512",
+    "C:\\Users\\fstev\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\10.0.13\\microsoft.extensions.caching.abstractions.10.0.13.nupkg.sha512",
+    "C:\\Users\\fstev\\.nuget\\packages\\microsoft.extensions.caching.memory\\10.0.13\\microsoft.extensions.caching.memory.10.0.13.nupkg.sha512",
+    "C:\\Users\\fstev\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.13\\microsoft.extensions.dependencyinjection.10.0.13.nupkg.sha512",
+    "C:\\Users\\fstev\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.13\\microsoft.extensions.dependencyinjection.abstractions.10.0.13.nupkg.sha512",
+    "C:\\Users\\fstev\\.nuget\\packages\\microsoft.extensions.logging\\10.0.13\\microsoft.extensions.logging.10.0.13.nupkg.sha512",
+    "C:\\Users\\fstev\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.13\\microsoft.extensions.logging.abstractions.10.0.13.nupkg.sha512",
+    "C:\\Users\\fstev\\.nuget\\packages\\microsoft.extensions.options\\10.0.13\\microsoft.extensions.options.10.0.13.nupkg.sha512",
+    "C:\\Users\\fstev\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.13\\microsoft.extensions.primitives.10.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

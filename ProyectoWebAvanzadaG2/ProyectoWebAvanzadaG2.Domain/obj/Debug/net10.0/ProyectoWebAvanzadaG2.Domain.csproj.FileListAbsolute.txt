@@ -1,0 +1,13 @@
+C:\ProyectosPrograWeb\ProyectoFinalPAW\eventos-costa-rica-G2\ProyectoWebAvanzadaG2\ProyectoWebAvanzadaG2.Domain\bin\Debug\net10.0\ProyectoWebAvanzadaG2.Domain.deps.json
+C:\ProyectosPrograWeb\ProyectoFinalPAW\eventos-costa-rica-G2\ProyectoWebAvanzadaG2\ProyectoWebAvanzadaG2.Domain\bin\Debug\net10.0\ProyectoWebAvanzadaG2.Domain.dll
+C:\ProyectosPrograWeb\ProyectoFinalPAW\eventos-costa-rica-G2\ProyectoWebAvanzadaG2\ProyectoWebAvanzadaG2.Domain\bin\Debug\net10.0\ProyectoWebAvanzadaG2.Domain.pdb
+C:\ProyectosPrograWeb\ProyectoFinalPAW\eventos-costa-rica-G2\ProyectoWebAvanzadaG2\ProyectoWebAvanzadaG2.Domain\obj\Debug\net10.0\ProyectoWebAvanzadaG2.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosPrograWeb\ProyectoFinalPAW\eventos-costa-rica-G2\ProyectoWebAvanzadaG2\ProyectoWebAvanzadaG2.Domain\obj\Debug\net10.0\ProyectoWebAvanzadaG2.Domain.AssemblyInfoInputs.cache
+C:\ProyectosPrograWeb\ProyectoFinalPAW\eventos-costa-rica-G2\ProyectoWebAvanzadaG2\ProyectoWebAvanzadaG2.Domain\obj\Debug\net10.0\ProyectoWebAvanzadaG2.Domain.AssemblyInfo.cs
+C:\ProyectosPrograWeb\ProyectoFinalPAW\eventos-costa-rica-G2\ProyectoWebAvanzadaG2\ProyectoWebAvanzadaG2.Domain\obj\Debug\net10.0\ProyectoWebAvanzadaG2.Domain.csproj.CoreCompileInputs.cache
+C:\ProyectosPrograWeb\ProyectoFinalPAW\eventos-costa-rica-G2\ProyectoWebAvanzadaG2\ProyectoWebAvanzadaG2.Domain\obj\Debug\net10.0\ProyectoWebAvanzadaG2.Domain.sourcelink.json
+C:\ProyectosPrograWeb\ProyectoFinalPAW\eventos-costa-rica-G2\ProyectoWebAvanzadaG2\ProyectoWebAvanzadaG2.Domain\obj\Debug\net10.0\ProyectoWebAvanzadaG2.Domain.dll
+C:\ProyectosPrograWeb\ProyectoFinalPAW\eventos-costa-rica-G2\ProyectoWebAvanzadaG2\ProyectoWebAvanzadaG2.Domain\obj\Debug\net10.0\refint\ProyectoWebAvanzadaG2.Domain.dll
+C:\ProyectosPrograWeb\ProyectoFinalPAW\eventos-costa-rica-G2\ProyectoWebAvanzadaG2\ProyectoWebAvanzadaG2.Domain\obj\Debug\net10.0\ProyectoWebAvanzadaG2.Domain.pdb
+C:\ProyectosPrograWeb\ProyectoFinalPAW\eventos-costa-rica-G2\ProyectoWebAvanzadaG2\ProyectoWebAvanzadaG2.Domain\obj\Debug\net10.0\ref\ProyectoWebAvanzadaG2.Domain.dll
+C:\ProyectosPrograWeb\ProyectoFinalPAW\eventos-costa-rica-G2\ProyectoWebAvanzadaG2\ProyectoWebAvanzadaG2.Domain\obj\Debug\net10.0\Proyecto.9620DD25.Up2Date
